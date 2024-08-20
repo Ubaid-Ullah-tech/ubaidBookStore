@@ -1,0 +1,94 @@
+
+[
+  {
+    "id": 1,
+    "name": "Watch",
+    "title": "Grit! by Angela Duckworth",
+    "price": 0.00,
+    "description": "Elegantly crafted with precision, this watch combines timeless design with modern functionality. Perfect for any occasion, it adds a touch of sophistication to your style.",
+    "category": "Free",
+    "img": "https://img.freepik.com/free-photo/young-women-reading-textbook_23-2147844870.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+   
+  },
+  {
+    "id": 2,
+    "name": "Sunglasses",
+    "title": "Drive! by Daniel H. Pink",
+    "price": 0.00,
+    "description": "A sleek blend of luxury and durability, this watch is designed to make a statement. Its minimalist face and quality craftsmanship ensure you stand out with subtle elegance.",
+    "category": "Free",
+     "img": "https://img.freepik.com/free-photo/happy-teen-girl-with-books_23-2147669094.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Backpack",
+    "title": "Mindset! by Carol S. Dweck",
+    "price": 0.0,
+    "description": "Experience the perfect balance of form and function with this exquisite watch. Its refined details and reliable performance make it an essential accessory for the modern individual.",
+    "category": "Free",
+    "img": "https://img.freepik.com/free-photo/children-with-school-backpacks-standing-library_23-2147854076.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "title": "Atomic Habits! by James Clear",
+    "price": 1299.99,
+    "description": "This watch is a masterpiece of elegance, with a design that transcends trends. Its precise movement and stylish appearance make it the ideal companion for every moment.",
+    "category": "Free",
+    "img": "https://img.freepik.com/free-photo/portrait-beautiful-adult-woman-posing_23-2148464435.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "title": "Blink! by Malcolm Gladwell",
+    "price": 199.99,
+    "description": "This watch is a masterpiece of elegance, with a design that transcends trends. Its precise movement and stylish appearance make it the ideal companion for every moment.",
+    "category": "Free",
+    "img": "https://img.freepik.com/premium-photo/free-photo-female-student-just-sitting-with-different-books-white_1139585-5824.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 6,
+    "name": "Shoes",
+    "title": "Running Shoes",
+    "price": 89.99,
+    "description": "Comfortable running shoes with great grip.",
+    "category": "Footwear",
+    "img": "https://img.freepik.com/free-photo/cheerful-girl-sitting-chair_23-2147673289.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 7,
+    "name": "Jacket",
+    "title": "Winter Jacket",
+    "price": 149.99,
+    "description": "Warm and stylish winter jacket.",
+    "category": "Clothing",
+    "img": "https://img.freepik.com/free-photo/pretty-teen-girl-studio_23-2147670284.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 8,
+    "name": "Phone",
+    "title": "Smartphone",
+    "price": 999.99,
+    "description": "Latest smartphone with advanced features.",
+    "category": "Electronics",
+    "img": "https://img.freepik.com/free-photo/cute-teen-girl-holding-phone_23-2147669785.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 9,
+    "name": "Tablet",
+    "title": "Android Tablet",
+    "price": 599.99,
+    "description": "Portable tablet for entertainment and work.",
+    "category": "Electronics",
+    "img": "https://img.freepik.com/free-photo/teen-girl-holding-tablet_23-2147671084.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  },
+  {
+    "id": 10,
+    "name": "Bracelet",
+    "title": "Silver Bracelet",
+    "price": 29.99,
+    "description": "Elegant silver bracelet with a minimalist design.",
+    "category": "Accessories",
+    "img": "https://img.freepik.com/free-photo/cute-young-girl-holding-books-her-head_23-2148464481.jpg?uid=R159276476&ga=GA1.1.962734213.1723807331&semt=ais_hybrid"
+  }
+]
